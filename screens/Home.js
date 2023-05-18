@@ -10,7 +10,7 @@ import {COLORS,SIZES, icons, images, FONTS} from "../constants";
 
 
 const Home =() =>   {
-   //feature data
+   //feature data in Home
     const featuresData = [
         {
             id: 1,
